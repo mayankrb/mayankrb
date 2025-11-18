@@ -1,23 +1,17 @@
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<h1 align="center">Hi 👋, I'm Aditi Jajoo</h1>
+<h1 align="center">Hi 👋, I'm Mayank Bhandari</h1>
 <h3 align="center">A Cloud Tech & Web Development Enthusiast, Driven to Build Scalable Web Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-- 👩About me: **Versatile and ambitious tech enthusiast with a Master's in Information Systems, I am proficient in Python, Java, React, AWS, and other key technologies, with a solid background in web development and cloud computing. Experienced in Agile Project Management, CI/CD pipelines, and database management. Eager to apply these skills to contribute to company growth while seeking new avenues for learning and professional development.**
+- 👩About me: **Versatile and ambitious tech enthusiast with a Master's in Computer Science from New York University, I am proficient in Java, Python, React, AWS, and other key technologies, with a solid background in web development and cloud computing. Experienced in Agile Project Management, CI/CD pipelines, and database management. Eager to apply these skills to contribute to company growth while seeking new avenues for learning and professional development.**
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
-
 - 🔭 I’m currently working on **Full Stack Food Delivery Website which involves working with React, Spring Boot, Redux and Stripe Payment**
+- 💬 Ask me about **Java, Spring Boot, Design Principles, System Design**
+- 📫 How to reach me **mayankrajnibhandari.work@gmail.com**
 
-- 💬 Ask me about **React, NodeJs, Javascript**
-
-- 📫 How to reach me **aditijajoo2612@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditi jajoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi jajoo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
