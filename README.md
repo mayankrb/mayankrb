@@ -5,7 +5,7 @@
 <h3 align="center">A Cloud Tech & Web Development Enthusiast, Driven to Build Scalable Web Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
-- 👩About me: **Versatile and ambitious tech enthusiast with a Master's in Computer Science from New York University, I am proficient in Java, Python, React, AWS, and other key technologies, with a solid background in web development and cloud computing. Experienced in Agile Project Management, CI/CD pipelines, and database management. Eager to apply these skills to contribute to company growth while seeking new avenues for learning and professional development.**
+- About me: **Versatile and ambitious tech enthusiast with a Master's in Computer Science from New York University, I am proficient in Java, Python, React, AWS, and other key technologies, with a solid background in web development and cloud computing. Experienced in Agile Project Management, CI/CD pipelines, and database management. Eager to apply these skills to contribute to company growth while seeking new avenues for learning and professional development.**
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 - 🔭 I’m currently working on **Full Stack Food Delivery Website which involves working with React, Spring Boot, Redux and Stripe Payment**
@@ -40,6 +40,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
