@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mayank Bhandari</h1>
 <h3 align="center">A Cloud Tech & Web Development Enthusiast, Driven to Build Scalable Web Solutions</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/mayankrb/mayankrb/blob/main/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 - About me: **Versatile and ambitious tech enthusiast with a Master's in Computer Science from New York University, I am proficient in Java, Python, React, AWS, and other key technologies, with a solid background in web development and cloud computing. Experienced in Agile Project Management, CI/CD pipelines, and database management. Eager to apply these skills to contribute to company growth while seeking new avenues for learning and professional development.**
 
